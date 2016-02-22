@@ -6,6 +6,7 @@ source 'https://rubygems.org'
 #
 
 gem 'react-rails', '~> 1.0'
+gem 'bootstrap-sass', '~> 3.3'
 
 #
 # stock
